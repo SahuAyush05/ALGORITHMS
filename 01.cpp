@@ -11,6 +11,9 @@ const int N=1e5+10,mod=1e9+10;
 void solve(){
     ll n;
     cin>>n;
+    int a,b;
+    cin>>a>>b;
+    cout<<a+b;
     
 }
 int main(){
